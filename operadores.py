@@ -21,3 +21,6 @@ print(f"El resultado de la operacion es: {Ejemplo4}")
 Ejemplo5 = 15/3*(7+(68-15*33+(45**2/5)/3)/2)+19
 print(f"El resultado de la operacion es: {Ejemplo5}")
 #final
+
+Ejemplo6 = (16/4*((((4+8*2)/4-(3**2)+2)/2)*5)-3)+16
+print(f"El resultado de la operacion es: {Ejemplo6}")
