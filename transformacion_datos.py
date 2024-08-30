@@ -1,5 +1,4 @@
 #capturar informacion
-
 nombre = input("Digite su nombre completo:")
 cedula= input("Digite su cedula: ")
 estatura = input("Digite su estatura:")
