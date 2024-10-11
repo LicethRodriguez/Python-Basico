@@ -1,14 +1,15 @@
 # crear un menu con la condicional while de una calculadora
-
+import math
 print(" Hola calculadora")
 print("1. Suma")
 print("2. Resta")
 print("3. Multiplicación")
 print("4. División")
 print("5. Potencia")
-print("6. Salir")
+print("6. Raiz")
+print("7. Salir")
 opcion = int(input("Digite la opcion del menu: "))
-while opcion != 6:
+while opcion != 7:
     try:
         if opcion == 1:
             num1 = int(input("Digite el primer numero: "))
